@@ -1,2 +1,3 @@
 # Cognizant_Cloud_Data_Engineer
-atividades feitas durante o Bootcamp
+Atividades feitas durante o Bootcamp de Engenharia de Dados da Cognizant.
+Digital Innovation One.
